@@ -1,5 +1,3 @@
-# FullstackExam
-
 # Shortener URL System Design
 ![System Design](https://github.com/Bright274448/ExamShortenerUrl/assets/76517020/58f682de-3355-4ec4-bae3-c4086345f19d)
 
